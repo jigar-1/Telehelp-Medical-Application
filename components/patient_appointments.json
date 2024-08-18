@@ -1,0 +1,114 @@
+{
+    "patient": {
+        "appointments": [
+            {
+                "api_key": "MENTAL_API_KEY",
+                "cancel": true,
+                "datetime": "05/10/2024, 10:00",
+                "ends_at": "2024-05-10T11:00:00Z",
+                "future_appt": true,
+                "human_readable_UA": "10:00, Tuesday, 10 May",
+                "id": "1364570146068237161",
+                "practitioner": {
+                    "cliniko_account_id": 4,
+                    "cliniko_practitioner_id": 923783501042419909,
+                    "information": " no interpreter",
+                    "name": "R,E NoInterpreter",
+                    "specialization": "Family Medicine",
+                    "tz": "Europe/Kiev"
+                },
+                "starts_at": "2024-05-10T10:00:00Z",
+                "telehealth_url": "https://marcos-healthy.ca1.cliniko.com/c?F4choIeKNC1-tzowGEhqHXh0KP8KK77NO",
+                "video_link": true
+            },
+            {
+                "api_key": "MENTAL_API_KEY",
+                "cancel": true,
+                "datetime": "05/11/2024, 14:00",
+                "ends_at": "2024-05-11T15:00:00Z",
+                "future_appt": true,
+                "human_readable_UA": "14:00, Wednesday, 11 May",
+                "id": "1364570146068237161",
+                "practitioner": {
+                    "cliniko_account_id": 4,
+                    "cliniko_practitioner_id": 923783501042419909,
+                    "information": " no interpreter",
+                    "name": "R,E NoInterpreter",
+                    "specialization": "Family Medicine",
+                    "tz": "Europe/Kiev"
+                },
+                "starts_at": "2024-05-11T14:00:00Z",
+                "telehealth_url": "https://marcos-healthy.ca1.cliniko.com/c?F4choIeKNC1-tzowGEhqHXh0KP8KK77NO",
+                "video_link": true
+            },
+            {
+                "api_key": "MENTAL_API_KEY",
+                "cancel": true,
+                "datetime": "05/12/2024, 16:00",
+                "ends_at": "2024-05-12T17:00:00Z",
+                "future_appt": true,
+                "human_readable_UA": "16:00, Thursday, 12 May",
+                "id": "1364570146068237161",
+                "practitioner": {
+                    "cliniko_account_id": 4,
+                    "cliniko_practitioner_id": 923783501042419909,
+                    "information": " no interpreter",
+                    "name": "R,E NoInterpreter",
+                    "specialization": "Family Medicine",
+                    "tz": "Europe/Kiev"
+                },
+                "starts_at": "2024-05-12T16:00:00Z",
+                "telehealth_url": "https://marcos-healthy.ca1.cliniko.com/c?F4choIeKNC1-tzowGEhqHXh0KP8KK77NO",
+                "video_link": true
+            },
+            {
+                "api_key": "MENTAL_API_KEY",
+                "cancel": true,
+                "datetime": "05/13/2024, 18:00",
+                "ends_at": "2024-05-13T19:00:00Z",
+                "future_appt": true,
+                "human_readable_UA": "18:00, Friday, 13 May",
+                "id": "1364570146068237161",
+                "practitioner": {
+                    "cliniko_account_id": 4,
+                    "cliniko_practitioner_id": 923783501042419909,
+                    "information": " no interpreter",
+                    "name": "R,E NoInterpreter",
+                    "specialization": "Family Medicine",
+                    "tz": "Europe/Kiev"
+                },
+                "starts_at": "2024-05-13T18:00:00Z",
+                "telehealth_url": "https://marcos-healthy.ca1.cliniko.com/c?F4choIeKNC1-tzowGEhqHXh0KP8KK77NO",
+                "video_link": true
+            },
+            {
+                "api_key": "MENTAL_API_KEY",
+                "cancel": true,
+                "datetime": "04/13/2024, 18:00",
+                "ends_at": "2024-04-13T19:00:00Z",
+                "future_appt": true,
+                "human_readable_UA": "18:00, Friday, 13 April",
+                "id": "1364570146068237161",
+                "practitioner": {
+                    "cliniko_account_id": 4,
+                    "cliniko_practitioner_id": 923783501042419909,
+                    "information": " no interpreter",
+                    "name": "R,E NoInterpreter",
+                    "specialization": "Family Medicine",
+                    "tz": "Europe/Kiev"
+                },
+                "starts_at": "2024-04-13T18:00:00Z",
+                "telehealth_url": "https://marcos-healthy.ca1.cliniko.com/c?F4choIeKNC1-tzowGEhqHXh0KP8KK77NO",
+                "video_link": true
+            }
+        ],
+        "attachments": [],
+        "auth0_id": null,
+        "email": "telehelpukraine.builders+clinicians@gmail.com",
+        "first_lang_id": null,
+        "first_name": "Health Navigator",
+        "last_name": "Link",
+        "second_lang_id": null,
+        "tz": "Europe/Kiev"
+    }
+}
